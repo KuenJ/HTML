@@ -1,0 +1,22 @@
+nav {
+  height: 80px;
+}
+
+main {
+  height: 1600px;
+  background-color: LightGray;
+}
+
+footer {
+  height: 568px;
+  background-color: black;
+}
+
+.box {
+  border: 1px solid red;
+  height: 500px;
+}
+
+.text-muted {
+  color: blue; /* 또는 다른 원하는 색상으로 변경 */
+}
